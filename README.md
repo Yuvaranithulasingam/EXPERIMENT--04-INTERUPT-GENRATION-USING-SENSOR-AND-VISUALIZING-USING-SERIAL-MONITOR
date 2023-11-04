@@ -182,6 +182,11 @@ PUTCHAR_PROTOTYPE
  ![WhatsApp Image 2023-10-28 at 16 21 27_0f418fa8](https://github.com/Yuvaranithulasingam/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/121418522/32bd4108-d015-4623-a96b-f2a87306f5e7)
 
 ## Circuit board :
- 
+### Before detecting obstacle:
+![before1](https://github.com/Yuvaranithulasingam/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/121418522/9d80e662-d38c-4b1a-85bd-f7b212fd8e87)
+
+### After detecting obstacle:
+![after1](https://github.com/Yuvaranithulasingam/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/121418522/05377765-a946-4377-8830-08251def4470)
+
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port.
